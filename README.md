@@ -80,7 +80,7 @@ This repository now focuses on Python porting work instead.
 │   └── tools.py
 ├── tests/                              # Python verification
 ├── assets/omx/                         # OmX workflow screenshots
-├── 2026-03-09-is-legal-the-same-as-legitimate-ai-reimplementation-and-the-erosion-of-copyleft.md
+├── LICENSE
 └── README.md
 ```
 
